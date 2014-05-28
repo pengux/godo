@@ -18,3 +18,9 @@ func main() {
 	fmt.Println(do.GetAllImages())
 }
 ```
+
+## TODO
+
+- Add functional tests
+- More documentation
+- More examples
